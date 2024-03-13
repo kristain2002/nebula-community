@@ -1,17 +1,17 @@
-[#English#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans) 
-
+[#English#](https://github.com/vesoft-inc/nebula-community) · [#中文#](https://github.com/vesoft-inc/nebula-community/tree/master/zh-Hans)
+//TR
 [![Discussions](https://img.shields.io/badge/GitHub_Discussion-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vesoft-inc/nebula/discussions) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us02web.zoom.us/meeting/register/tZ0rcuypqDMvGdLuIm4VprTlx96wrEf062SH) [![Discourse](https://img.shields.io/badge/中文论坛-4285F4?style=for-the-badge&logo=discourse&logoColor=white)](https://discuss.nebula-graph.com.cn/) [![Slack](https://img.shields.io/badge/Slack-9F2B68?style=for-the-badge&logo=slack&logoColor=white)](https://nebula-graph.io/join-slack) [![Tecent_Meeting](https://img.shields.io/badge/腾讯会议-2D8CFF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meeting.tencent.com/dm/F8NX1aRZ8PQv) [![Google Calendar](https://img.shields.io/badge/Calander-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://calendar.google.com/calendar/u/0?cid=Z29mbGttamM3ZTVlZ2hpazI2cmNlNXVnZThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) [![Meetup](https://img.shields.io/badge/Meetup-FF0000?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/nebulagraph/events/287180186?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) [![Meeting Archive](https://img.shields.io/badge/Community_wiki-808080?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/vesoft-inc/nebula-community/wiki)
 
-# Nebula Graph Community
+# NebulaGraph Community
 
 - [Slack Channel](https://join.slack.com/t/nebulagraph/shared_invite/zt-7ybejuqa-NCZBroh~PCh66d9kOQj45g)
 - [Discussion Board](https://github.com/vesoft-inc/nebula/discussions)
 
-Welcome to the Nebula Graph Community!
+Welcome to the NebulaGraph Community!
 
-This repo is to provide a place for members of the Nebula Graph community to learn from and collaborate with each other. In this repo, you can find learning resources, communication channels, meetup and events info. We encourage you to become a contributor and committer by improving docs, contributing code, sharing knowledge via talks and presentations, organizing user groups, etc.
+This repo is to provide a place for members of the NebulaGraph community to learn from and collaborate with each other. In this repo, you can find learning resources, communication channels, meetup and events info. We encourage you to become a contributor and committer by improving docs, contributing code, sharing knowledge via talks and presentations, organizing user groups, etc.
 
-See Nebula Graph Community Architecture: [Here](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-community-architecture)
+See Nebula Graph Community Architecture: [Here](https://github.com/vesoft-inc/nebula-community/blob/master/nebula-community-architecture) a
 
 ## Community Activities
 
@@ -31,13 +31,14 @@ If you need any help or mentoring getting started, understanding the codebase, o
 ## Resources
 
 ### [Nebula Blog](https://nebula-graph.io/posts)
-The Nebula Blog is a go-to place for Nebula Graph users to learn more about the architecture and design of Nebula Graph modules, best practices from Nebula users, 
 
-### [Nebula Graph Discussions](https://github.com/vesoft-inc/nebula/discussions)
+The Nebula Blog is a go-to place for Nebula Graph users to learn more about the architecture and design of NebulaGraph modules, best practices from Nebula users,
 
-This is a public discussion board where users can ask questions and best practices about Nebula Graph and related tools.
+### [NebulaGraph Discussions](https://github.com/vesoft-inc/nebula/discussions)
 
-### [Nebula Graph Docs](https://docs.nebula-graph.io/)
+This is a public discussion board where users can ask questions and best practices about NebulaGraph and related tools.
+
+### [NebulaGraph Docs](https://docs.nebula-graph.io/)
 
 You can find all the information on the different Nebula Graph projects with our docs.
 
@@ -47,8 +48,8 @@ There are video tutorials and recorded talks from meetups on our YouTube page.
 
 ### Social Media
 
-We have official social media channels on [Twitter](https://twitter.com/NebulaGraph), [Facebook](https://www.facebook.com/NebulaGraph/) and [LinkedIn](https://www.linkedin.com/company/30897126). Follow us on whichever channel you prefer.
+We have official social media channels on [Twitter](https://twitter.com/NebulaGraph), [Facebook](https://www.facebook.com/NebulaGraph/) and [LinkedIn](https://www.linkedin.com/company/30897126). Follow us on whichever channel you prefer.pri
 
 ## License
 
-The Nebula Graph Community is under the Apache 2.0 license. 
+The Nebula Graph Community is under the Apache 3.0 license.
